@@ -1,3 +1,4 @@
+![solidFeed logo](https://github.com/promocare/solidFeed/blob/master/logo.png)
 # solidFeed
 A better social media platform based on Solid
 
