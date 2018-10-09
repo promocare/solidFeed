@@ -1,6 +1,6 @@
 ![solidFeed logo](https://github.com/promocare/solidFeed/blob/master/logo.png)
-# solidFeed
-A better social media platform based on Solid
+# SolidFeed
+A better social media platform based on Solid.
 
 ## Introduction
 The goal of this documents is to explain the guidelines for a new Solid based social network.
