@@ -16,7 +16,10 @@ You can learn more about Solid [here](https://github.com/solid/solid) and [here]
 ## An UI/UX to prevent addiction and misinformation
 The biggest UI/UX flaw (_read feature_) of current social media platforms is that users are encouraged to spend as much as possible time on the platform so that the companies can sell ads and promoted material. 
 
-This creates addiction and suffering for a lot of people as proved by various studies. _(links will be added soon)_
+This creates addiction and suffering for a lot of people as proved by various studies.
+- [Online Social Networking and Mental Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183915/) 
+- [Experimental evidence of massive-scale emotional contagion through social networks](http://www.pnas.org/content/111/24/8788.full)
+- [Social network addiction : a new clinical disorder?](https://www.sciencedirect.com/science/article/pii/S0924933810708464)
 
 Our goal is to create a easy to understand and fast interface that doesn't allow the user to spend an excessive amount of time on the platform but can be used to keep in touch with people, creators and brands in a healthy way.
 We could use reminders (eg. Nintendo games) to alert that the user, and other UI features.
