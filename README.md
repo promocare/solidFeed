@@ -1,5 +1,5 @@
-![solidFeed logo](https://github.com/promocare/solidFeed/blob/master/logo.png)
-# solidFeed
+![solidFeed logo](https://github.com/promocare/solidFeed/blob/master/logo.svg)
+# SolidFeed
 A better social media platform based on Solid
 
 ## Introduction
@@ -62,7 +62,7 @@ It will not be shown on the public profile data how many followers a profile has
 **By default the maximum amount of privacy will be enabled**
 
 ## Technologies
-We should use a reactive JS framework (eg. Vue.js) along with the HTML/JS that solid requires.
+We should use a reactive JS framework (eg. Vue.js) along with the HTML/JS that Solid requires.
 we could also create a HTML "lite" versions for devices with limited computing resources, limited connectivity or legacy OSs and browsers.
 
 Mobile apps for iOS and Android could be created in the future.
