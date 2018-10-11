@@ -1,6 +1,6 @@
-![solidFeed logo](https://github.com/promocare/solidFeed/blob/master/logo.png)
+![solidFeed logo](https://github.com/promocare/solidFeed/blob/master/logo.svg)
 # SolidFeed
-A better social media platform based on Solid.
+A better social media platform based on Solid
 
 ## Introduction
 The goal of this documents is to explain the guidelines for a new Solid based social network.
@@ -16,7 +16,10 @@ You can learn more about Solid [here](https://github.com/solid/solid) and [here]
 ## An UI/UX to prevent addiction and misinformation
 The biggest UI/UX flaw (_read feature_) of current social media platforms is that users are encouraged to spend as much as possible time on the platform so that the companies can sell ads and promoted material. 
 
-This creates addiction and suffering for a lot of people as proved by various studies. _(links will be added soon)_
+This creates addiction and suffering for a lot of people as proved by various studies.
+- [Online Social Networking and Mental Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183915/) 
+- [Experimental evidence of massive-scale emotional contagion through social networks](http://www.pnas.org/content/111/24/8788.full)
+- [Social network addiction : a new clinical disorder?](https://www.sciencedirect.com/science/article/pii/S0924933810708464)
 
 Our goal is to create a easy to understand and fast interface that doesn't allow the user to spend an excessive amount of time on the platform but can be used to keep in touch with people, creators and brands in a healthy way.
 We could use reminders (eg. Nintendo games) to alert that the user, and other UI features.
@@ -62,7 +65,7 @@ It will not be shown on the public profile data how many followers a profile has
 **By default the maximum amount of privacy will be enabled**
 
 ## Technologies
-We should use a reactive JS framework (eg. Vue.js) along with the HTML/JS that solid requires.
+We should use a reactive JS framework (eg. Vue.js) along with the HTML/JS that Solid requires.
 we could also create a HTML "lite" versions for devices with limited computing resources, limited connectivity or legacy OSs and browsers.
 
 Mobile apps for iOS and Android could be created in the future.
